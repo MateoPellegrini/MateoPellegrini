@@ -1,52 +1,64 @@
-<!--
-**PellegriniM/PellegriniM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Header](https://user-images.githubusercontent.com/0000000/banner.png)
 
 # ¡Hola, soy Mateo Pellegrini! 👋
 
-Soy técnico en desarrollador de software.
-Me gusta poder aprender nuevas tecnologías para mejorar mis habilidades.
-
-## 🚀 Tecnologías que domino
-
-### Frontend:
-- **HTML5** | **CSS3** | **JavaScript** | **SASS** | **Bootstrap**
-- **React Native** | **Expo** (aprendiendo)
-
-### Backend:
-- **PHP** | **Python**
-- **Django** (con experiencia)
-
-### Desarrollo de juegos:
-- **C#**
-- **Unity 3D**
-
-## 💼 Proyectos destacados
-
-- **[CorruptKingdom](https://github.com/PellegriniM/ProyectoIngPython)**: Juego basado en texto, desarrollado en Python.
-- **[Proyecto 2]**: Descripción corta del proyecto, tecnologías utilizadas y qué aprendiste.
-
-## 📚 Actualmente aprendiendo
-
-Estoy en el proceso de profundizar en **React Native** y **Expo** para el desarrollo de aplicaciones móviles.
-
-## 📣 Encuéntrame en
-
-- GitHub: [TuGitHub](https://github.com/tuusuario)
-- LinkedIn: [TuLinkedIn](https://www.linkedin.com/in/tuusuario)
-- Twitter: [@TuTwitter](https://twitter.com/tuusuario)
+🚀 **Desarrollador de software apasionado por aprender y crear soluciones innovadoras.**  
+🎮 **Fanático del desarrollo de juegos y la tecnología.**  
 
 ---
 
-¡Gracias por visitar mi perfil! Si tienes alguna pregunta o propuesta, no dudes en contactarme. 💬
+## 🚀 Tecnologías que domino
+<div align="center">
+  
+### Frontend:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend:
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Desarrollo de juegos:
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Proyectos destacados
+
+- **[CorruptKingdom](https://github.com/PellegriniM/ProyectoIngPython)**  
+  📝 **Descripción:** Juego basado en texto, desarrollado en Python.  
+  🚀 **Tecnologías:** Python.  
+  🌟 **Aprendizaje:** Lógica de programación y mecánicas de juegos.
+
+- **[Proyecto 2]**  
+  📝 **Descripción:** Descripción corta del proyecto.  
+  🚀 **Tecnologías:** Ejemplo: React Native, Expo.  
+  🌟 **Aprendizaje:** Qué lograste al desarrollarlo.
+
+---
+
+## 📚 Actualmente aprendiendo
+
+🎯 Profundizando en **React Native** y **Expo** para el desarrollo de aplicaciones móviles.  
+💡 Explorando buenas prácticas en diseño de UI/UX y accesibilidad web.
+
+---
+
+## 📣 Encuéntrame en
+
+<p align="center">
+  <a href="https://github.com/tuusuario"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/tuusuario"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+</p>
+
+---
+
+✨ *Gracias por visitar mi perfil. Si tienes alguna pregunta o propuesta, no dudes en contactarme.* 💬
