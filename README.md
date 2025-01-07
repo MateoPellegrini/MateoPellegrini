@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/PellegriniM/PellegriniM/main/Banner.webp" alt="Header" width="100%" style="height: 200px; object-fit: cover;">
+<img src="https://raw.githubusercontent.com/PellegriniM/PellegriniM/main/Banner.webp" alt="Header" width="100%" style="height: 200px;">
 
 # ¡Hola, soy Mateo Pellegrini! 👋
 
