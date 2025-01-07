@@ -34,7 +34,7 @@ Me gusta poder aprender nuevas tecnologías para mejorar mis habilidades.
 
 ## 💼 Proyectos destacados
 
-- **[Proyecto 1]**: Descripción corta del proyecto, tecnologías utilizadas y qué aprendiste.
+- **[CorruptKingdom](https://github.com/PellegriniM/ProyectoIngPython)**: Juego asado en texto desarrollado en Python.
 - **[Proyecto 2]**: Descripción corta del proyecto, tecnologías utilizadas y qué aprendiste.
 
 ## 📚 Actualmente aprendiendo
