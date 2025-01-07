@@ -1,4 +1,4 @@
-![Header](https://user-images.githubusercontent.com/0000000/banner.png)
+![Header](https://raw.githubusercontent.com/PellegriniM/PellegriniM/main/Banner.webp)
 
 # ¡Hola, soy Mateo Pellegrini! 👋
 
