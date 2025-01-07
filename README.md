@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **PellegriniM/PellegriniM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,7 +39,7 @@ Me gusta poder aprender nuevas tecnologías para mejorar mis habilidades.
 
 ## 📚 Actualmente aprendiendo
 
-Estoy en el proceso de profundizar en **React Native** y **Expo** para el desarrollo de aplicaciones móviles. Además, sigo mejorando mis habilidades en **Django**, **C#** y **Unity 3D**.
+Estoy en el proceso de profundizar en **React Native** y **Expo** para el desarrollo de aplicaciones móviles.
 
 ## 📣 Encuéntrame en
 
