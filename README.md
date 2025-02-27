@@ -37,7 +37,7 @@
   🚀 **Tecnologías:** Python.  
   🌟 **Aprendizaje:** Lógica de programación y mecánicas de juegos.
 
-- **[CorruptKingdom](https://github.com/MateoPellegrini/KnightBlade)**  
+- **[KnightBlade](https://github.com/MateoPellegrini/KnightBlade)**  
   📝 **Descripción:** Tesis, sistema orientado a un juego.  
   🚀 **Tecnologías:** PHP.  
   🌟 **Aprendizaje:** Lógica de programació en PHP y complementar con SQL.
